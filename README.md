@@ -28,3 +28,9 @@ An intelligent chat bots that understood customers needs and suggests solutions 
 ### Machine Learning
 ML is a subset of AI.
 Researchers in 1958
+
+#### AI types on the basis of functionality
+1. Reactive Memory
+2. Limited Memory
+3. Theory of mind
+4. Self Awareness
