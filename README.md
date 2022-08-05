@@ -34,3 +34,9 @@ Researchers in 1958
 2. Limited Memory
 3. Theory of mind
 4. Self Awareness
+
+### Activation Functions
+1. Sigmoid Function
+2. Tanh Function
+3. ReLU
+4. Step Function
