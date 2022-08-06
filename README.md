@@ -40,3 +40,6 @@ Researchers in 1958
 2. Tanh Function
 3. ReLU
 4. Step Function
+
+### Optimizers
+
