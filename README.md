@@ -47,3 +47,4 @@ Researchers in 1958
 During training we adjuat the parameters to minimize the loss function and make our model as optimized as possible
 Tie together the loss function and model parameters by updating the network based on the output of the loss function
 
+### Loss Functions
