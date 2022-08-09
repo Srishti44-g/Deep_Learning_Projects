@@ -48,3 +48,12 @@ During training we adjuat the parameters to minimize the loss function and make 
 Tie together the loss function and model parameters by updating the network based on the output of the loss function
 
 ### Loss Functions
+
+### Learning Algortithms
+1. Intialise parameters with random values
+2. feed inputs data to inputs
+3. compare predicted values with expected value and calculate loss
+4. Back through the network 
+5. Update parameter based ont the loss
+6. Iterate previous steps till loss is minimized
+
