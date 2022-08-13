@@ -57,3 +57,12 @@ Tie together the loss function and model parameters by updating the network base
 5. Update parameter based ont the loss
 6. Iterate previous steps till loss is minimized
 
+### Supervised Learning
+Algorithm designed to learn by example
+models are trained on well - labelled data
+
+Each example is a pair consisting of
+
+1. Input : Object (typically a vector)
+2. Desired : Output (Supervised Signal)
+
